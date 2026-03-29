@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sidharth 👋
 
-<!--
-**Sidharthkris/Sidharthkris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Computer Science — Clausthal University of Technology (TU Clausthal), Germany  
+🔬 Agent-Based Simulation | Multi-Agent Systems | Software Engineering  
+🌍 Based in Germany | Open to IT opportunities  
+🗣️ Languages: English, German (learning), Malayalam
 
-Here are some ideas to get you started:
+## 🔭 Featured Project
+**[Emergency Evacuation Simulation](https://github.com/Sidharthkris/emergency-evacuation-abm)**  
+Agent-based model in NetLogo simulating crowd behavior during lecture hall evacuations — 
+Master's Thesis, September 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+`NetLogo` `Agent-Based Modeling` `Python` `Algorithms` `LaTeX` `Multi-Agent Systems`
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sidharth-vijayan-krishnan)
