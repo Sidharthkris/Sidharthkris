@@ -6,9 +6,9 @@
 
 ---
 
-`M.Sc. Computer Science · TU Clausthal` &nbsp;·&nbsp; `Simulation · Java · Python`
+`M.Sc. Computer Science · TU Clausthal` &nbsp;·&nbsp; `Simulation · Java · Python · Test Automation`
 
-Software engineer focused on simulation, algorithms, and multi-agent systems. Built a large-scale agent-based evacuation simulator for my thesis — 9,000+ experiments, custom pathfinding, and behavioural modelling. I enjoy systems where individual rules produce emergent, real-world-relevant outcomes.
+Software engineer focused on simulation, algorithms, and multi-agent systems. Built a large-scale agent-based evacuation simulator for my thesis — 10,000+ experiments, custom pathfinding, and behavioural modelling. Also experienced in test automation (Selenium WebDriver, JMeter) and CI/CD integration (Jenkins, GitHub Actions).
 
 **→ [sidharthkris.github.io](https://sidharthkris.github.io)** — full portfolio & CV
 
@@ -19,7 +19,7 @@ Software engineer focused on simulation, algorithms, and multi-agent systems. Bu
 **[emergency-evacuation-simulation](https://github.com/Sidharthkris/emergency-evacuation-simulation)**
 *Master's Thesis · TU Clausthal · Sep 2025 · Supervised by Dr. T. Ahlbrecht & Prof. Dr. R. Bredereck*
 
-Agent-based simulation of emergency evacuation across 5 lecture hall layouts. Dijkstra-variant pathfinding, panic contagion dynamics, heterogeneous agent population. 9,000+ BehaviorSpace experiments; analysis in Python. Results inform evidence-based recommendations for safer building design.
+Agent-based simulation of emergency evacuation across 5 lecture hall layouts. Dijkstra-variant pathfinding, panic contagion dynamics, heterogeneous agent population. 10,000+ BehaviorSpace experiments; analysis in Python. Results inform evidence-based recommendations for safer building design.
 
 `NetLogo` `Python` `Agent-Based Modelling` `Dijkstra` `Pandas` `Matplotlib`
 
@@ -30,40 +30,57 @@ Agent-based simulation of emergency evacuation across 5 lecture hall layouts. Di
 
 Interactive browser tool visualizing how pathfinding algorithms explore a grid and find optimal routes. Connects directly to the algorithmic work in my thesis.
 
-`HTML` `JavaScript` `Algorithms`
+`HTML` `JavaScript` `Canvas API` `Algorithms`
 
 ---
 
 ## Other work *(not yet public)*
 
 **Multi-Agent Systems · Master's Project**
-BDI agents in GOAL for a competitive hex-grid environment (MASSim). A* pathfinding, obstacle-aware navigation, Java backend.
+BDI agents in GOAL for a competitive hex-grid environment (MASSim). A* pathfinding, obstacle-aware navigation, Java backend with EISMASSim 5.0.1.
 
-**Android Access Control · Bachelor's Project**
-Context-based runtime permission enforcement — Java, Android SDK, PHP, MySQL, SQLite.
+**Total Control · Bachelor's Project**
+Context-based runtime permission enforcement for Android — Java, Android SDK, PHP, MySQL, SQLite. Location/time-based policies via WiFi SSID and GPS.
 
 ---
 
 ## Skills
 
-| Languages | Simulation | Tools & Libraries |
-|-----------|-----------|-------------------|
-| Java · Python · C++ · JavaScript · SQL | NetLogo · Agent-Based Modelling · Dijkstra / A* · BDI / GOAL · BehaviorSpace | Git · Linux · Pandas · Matplotlib · NumPy · Android SDK |
+| Languages | Simulation & AI | Testing & QA |
+|-----------|----------------|--------------|
+| Java · Python · JavaScript · SQL · PHP · HTML/CSS · ASP.NET · NetLogo | Agent-Based Modelling · Dijkstra / A* · Multi-Agent Systems · BDI / GOAL · BehaviorSpace | Selenium WebDriver · JUnit · TestNG · JMeter · Burp Suite |
+
+| CI/CD & Tools | Databases & Mobile | Concepts |
+|---------------|-------------------|----------|
+| Jenkins · GitHub Actions · Git · Jira · Eclipse · IntelliJ IDEA | MySQL · SQLite · SQL Server · JDBC · Android SDK | OOP · Data Structures · Algorithms · SDLC · Agile/Scrum |
+
+---
+
+## Experience
+
+**Software Development Engineer in Test (SDET) Intern** · Rogersoft Technologies · Dec 2018 – Mar 2019
+Built Selenium WebDriver automation in Java; integrated into Jenkins/GitHub Actions CI/CD. Performance testing with JMeter, vulnerability assessment with Burp Suite.
+
+**Software Developer & Technical Trainer** · Matrix Technologies · Nov 2015 – Nov 2018
+Mentored Java developers; supervised end-to-end SDLC projects (Library Management System, E-Commerce Inventory Tool). Designed training curriculum and conducted code reviews.
+
+**Web Developer Intern** · Verbicio Tech LLC · Jul 2014
+Built responsive full-stack web modules (HTML, CSS, JavaScript, SQL Server). Source control with Git/GitHub.
 
 ---
 
 ## Education
 
-**M.Sc. Computer Science (Informatik)** · TU Clausthal, Germany · Sep 2025
+**M.Sc. Computer Science (Informatik)** · TU Clausthal, Germany · Oct 2020 – Sep 2025
 *Thesis: Agent-Based Simulation of Emergency Evacuation in University Lecture Halls*
 
-**B.Tech. Computer Science** · Mar Baselios Institute of Technology and Science (MBITS), Kerala, India
+**B.Tech. Computer Science** · Mar Baselios Institute of Technology and Science (MBITS), Kerala, India · Aug 2011 – May 2015
 
 ---
 
 ## Languages
 
-English (fluent) &nbsp;·&nbsp; German (B1) &nbsp;·&nbsp; Malayalam (native)
+English (fluent) &nbsp;·&nbsp; German (A2, actively learning) &nbsp;·&nbsp; Malayalam (native)
 
 ---
 
