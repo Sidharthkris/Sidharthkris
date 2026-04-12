@@ -8,7 +8,7 @@
 
 `M.Sc. Computer Science · TU Clausthal` &nbsp;·&nbsp; `Simulation · Java · Python · Test Automation`
 
-Software engineer focused on simulation, algorithms, and multi-agent systems. Built a large-scale agent-based evacuation simulator for my thesis — 10,000+ experiments, custom pathfinding, and behavioural modelling. Also experienced in test automation (Selenium WebDriver, JMeter) and CI/CD integration (Jenkins, GitHub Actions).
+Software engineer focused on simulation, algorithms, and multi-agent systems. Built a large-scale agent-based evacuation simulator for my thesis. Also experienced in test automation (Selenium WebDriver, JMeter) and CI/CD integration (Jenkins, GitHub Actions).
 
 **→ [sidharthkris.github.io](https://sidharthkris.github.io)** — full portfolio & CV
 
@@ -19,7 +19,7 @@ Software engineer focused on simulation, algorithms, and multi-agent systems. Bu
 **[emergency-evacuation-simulation](https://github.com/Sidharthkris/emergency-evacuation-simulation)**
 *Master's Thesis · TU Clausthal · Sep 2025 · Supervised by Dr. T. Ahlbrecht & Prof. Dr. R. Bredereck*
 
-Agent-based simulation of emergency evacuation across 5 lecture hall layouts. Dijkstra-variant pathfinding, panic contagion dynamics, heterogeneous agent population. 10,000+ BehaviorSpace experiments; analysis in Python. Results inform evidence-based recommendations for safer building design.
+Agent-based simulation of emergency evacuation across 5 lecture hall layouts. Dijkstra-variant pathfinding, panic contagion dynamics, heterogeneous agent population. 9,000+ BehaviorSpace experiments; analysis in Python. Results inform evidence-based recommendations for safer building design.
 
 `NetLogo` `Python` `Agent-Based Modelling` `Dijkstra` `Pandas` `Matplotlib`
 
@@ -80,7 +80,7 @@ Built responsive full-stack web modules (HTML, CSS, JavaScript, SQL Server). Sou
 
 ## Languages
 
-English (fluent) &nbsp;·&nbsp; German (A2, actively learning) &nbsp;·&nbsp; Malayalam (native)
+English (fluent) &nbsp;·&nbsp; German (B1) &nbsp;·&nbsp; Malayalam (native)
 
 ---
 
