@@ -1,8 +1,16 @@
-## Sidharth Vijayan Krishnan
+<!-- Animated name — uses readme-typing-svg (battle-tested on GitHub) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=46&duration=120&pause=99999&color=0052E0&vCenter=true&width=700&height=72&lines=Sidharth+Vijayan+Krishnan)](https://sidharthkris.github.io)
 
-`M.Sc. Computer Science · TU Clausthal` &nbsp; `Simulation · Java · Python` &nbsp;
+<!-- Subtitle line fades in after a beat -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=300&style=italic&size=22&duration=60&pause=99999&color=4a4840&vCenter=true&width=700&height=36&lines=Software+Engineer+%C2%B7+Simulation+%26+Algorithms+%C2%B7+Germany)](https://sidharthkris.github.io)
+
+---
+
+`M.Sc. Computer Science · TU Clausthal` &nbsp;·&nbsp; `Simulation · Java · Python`
 
 Software engineer focused on simulation, algorithms, and multi-agent systems. Built a large-scale agent-based evacuation simulator for my thesis — 9,000+ experiments, custom pathfinding, and behavioural modelling. I enjoy systems where individual rules produce emergent, real-world-relevant outcomes.
+
+**→ [sidharthkris.github.io](https://sidharthkris.github.io)** — full portfolio & CV
 
 ---
 
@@ -59,5 +67,6 @@ English (fluent) &nbsp;·&nbsp; German (B1) &nbsp;·&nbsp; Malayalam (native)
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-vijayan-krishnan) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-sidharthkris.github.io-0052e0?style=flat&logo=github&logoColor=white)](https://sidharthkris.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-vijayan-krishnan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sidharthvk80@gmail.com)
