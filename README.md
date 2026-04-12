@@ -1,6 +1,6 @@
 ## Sidharth Vijayan Krishnan
 
-`M.Sc. Computer Science · TU Clausthal` &nbsp; `Simulation · Java · Python` &nbsp; **`Open to work · Germany / Europe`**
+`M.Sc. Computer Science · TU Clausthal` &nbsp; `Simulation · Java · Python` &nbsp;
 
 Software engineer focused on simulation, algorithms, and multi-agent systems. Built a large-scale agent-based evacuation simulator for my thesis — 9,000+ experiments, custom pathfinding, and behavioural modelling. I enjoy systems where individual rules produce emergent, real-world-relevant outcomes.
 
