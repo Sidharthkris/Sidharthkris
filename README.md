@@ -58,13 +58,13 @@ Context-based runtime permission enforcement for Android — Java, Android SDK, 
 
 ## Experience
 
-**Software Development Engineer in Test (SDET) Intern** · Rogersoft Technologies · Dec 2018 – Mar 2019
+**Test Automation Engineer** · Rogersoft Technologies · Dec 2018 – Mar 2019
 Built Selenium WebDriver automation in Java; integrated into Jenkins/GitHub Actions CI/CD. Performance testing with JMeter, vulnerability assessment with Burp Suite.
 
-**Software Developer & Technical Trainer** · Matrix Technologies · Nov 2015 – Nov 2018
+**Academic Coordinator (Java)** · Matrix Technologies · Nov 2015 – Nov 2018
 Mentored Java developers; supervised end-to-end SDLC projects (Library Management System, E-Commerce Inventory Tool). Designed training curriculum and conducted code reviews.
 
-**Web Developer Intern** · Verbicio Tech LLC · Jul 2014
+**Full-Stack Developer (Intern)** · Verbicio Tech LLC · Jul 2014
 Built responsive full-stack web modules (HTML, CSS, JavaScript, SQL Server). Source control with Git/GitHub.
 
 ---
@@ -80,7 +80,7 @@ Built responsive full-stack web modules (HTML, CSS, JavaScript, SQL Server). Sou
 
 ## Languages
 
-English (fluent) &nbsp;·&nbsp; German (B1) &nbsp;·&nbsp; Malayalam (native)
+English (fluent) &nbsp;·&nbsp; German (B1)
 
 ---
 
