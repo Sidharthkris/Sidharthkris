@@ -1,5 +1,5 @@
 <!-- Animated name — uses readme-typing-svg (battle-tested on GitHub) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=46&duration=120&pause=99999&color=0052E0&vCenter=true&width=700&height=72&lines=Sidharth+Vijayan+Krishnan)](https://sidharthkris.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=46&duration=120&pause=99999&color=0052E0&vCenter=true&width=700&height=72&lines=Sidharth+Vijayan+Krishnan)](https://sidharthkris.github.io)
 
 <!-- Subtitle line fades in after a beat -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=300&style=italic&size=22&duration=60&pause=99999&color=4a4840&vCenter=true&width=700&height=36&lines=Software+Engineer+%C2%B7+Simulation+%26+Algorithms+%C2%B7+Germany)](https://sidharthkris.github.io)
