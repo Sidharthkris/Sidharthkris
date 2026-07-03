@@ -1,89 +1,79 @@
-<!-- Animated name — uses readme-typing-svg (battle-tested on GitHub) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=46&duration=120&pause=99999&vCenter=true&width=700&height=72&lines=Sidharth+Vijayan+Krishnan)](https://sidharthkris.github.io)
+# Hi there, I'm Sidharth! 👋
 
-<!-- Subtitle line fades in after a beat -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=300&style=italic&size=22&duration=60&pause=99999&color=4a4840&vCenter=true&width=700&height=36&lines=Software+Engineer+%C2%B7+Simulation+%26+Algorithms+%C2%B7+Germany)](https://sidharthkris.github.io)
+<!-- High-contrast typing banner set to Emerald Green (10B981) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=10B981&vCenter=true&width=700&height=36&lines=M.Sc.+Computer+Science+%C2%B7+TU+Clausthal;Software+%26+Simulation+Engineer;Java+17+%C2%B7+Python+%C2%B7+Spring+Boot+%C2%B7+AI;Test+Automation+%26+CI%2FCD+Specialist)](https://sidharthkris.github.io)
 
----
+I am a Software Engineer based in Germany with a unique blend of expertise in **algorithmic simulation, multi-agent systems, and full-stack backend development**. I combine deep academic rigor—such as running 9,000+ thesis experiments—with practical industry experience in Java, test automation, and CI/CD pipelines to build scalable, data-driven systems.
 
-`M.Sc. Computer Science · TU Clausthal` &nbsp;·&nbsp; `Simulation · Java · Python · Test Automation`
-
-Software engineer focused on simulation, algorithms, and multi-agent systems. Built a large-scale agent-based evacuation simulator for my thesis. Also experienced in test automation (Selenium WebDriver, JMeter) and CI/CD integration (Jenkins, GitHub Actions).
-
-**→ [sidharthkris.github.io](https://sidharthkris.github.io)** — full portfolio & CV
+**[🌐 Explore my full portfolio & CV →](https://sidharthkris.github.io)**
 
 ---
 
-## Projects
+## ⚡ Featured Work
 
-**[emergency-evacuation-simulation](https://github.com/Sidharthkris/emergency-evacuation-simulation)**
-*Master's Thesis · TU Clausthal · Sep 2025 · Supervised by Dr. T. Ahlbrecht & Prof. Dr. R. Bredereck*
+### 🚨 Simulation & Algorithmic AI
 
-Agent-based simulation of emergency evacuation across 5 lecture hall layouts. Dijkstra-variant pathfinding, panic contagion dynamics, heterogeneous agent population. 9,000+ BehaviorSpace experiments; analysis in Python. Results inform evidence-based recommendations for safer building design.
+#### [Emergency Evacuation Simulator](https://github.com/Sidharthkris/emergency-evacuation-simulation)
+> **Master's Thesis Project (TU Clausthal)** — Agent-based simulation modeling emergency egress across 5 complex lecture hall layouts.
+* Engineered custom **Dijkstra-variant pathfinding** and panic contagion dynamics to model up to 200 concurrent agents using **NetLogo** and **Python**.
+* Executed **9,000+ BehaviorSpace parameter sweeps**, proving that optimized seating and aisle structures **reduce emergency egress time by 15–20%**.
 
-`NetLogo` `Python` `Agent-Based Modelling` `Dijkstra` `Pandas` `Matplotlib`
+`NetLogo` `Python` `Agent-Based Modelling` `Dijkstra` `Pandas` `Matplotlib` `NumPy`
 
----
+<br>
 
-**[pathfinding-visualizer](https://github.com/Sidharthkris/pathfinding-visualizer)**
-*Personal project · HTML / JavaScript*
+#### [Pathfinding Visualizer](https://github.com/Sidharthkris/pathfinding-visualizer)
+> **Interactive Web Tool** — A real-time browser visualization showing how pathfinding algorithms explore grids to find optimal routes.
 
-Interactive browser tool visualizing how pathfinding algorithms explore a grid and find optimal routes. Connects directly to the algorithmic work in my thesis.
-
-`HTML` `JavaScript` `Canvas API` `Algorithms`
-
----
-
-## Other work *(not yet public)*
-
-**Multi-Agent Systems · Master's Project**
-BDI agents in GOAL for a competitive hex-grid environment (MASSim). A* pathfinding, obstacle-aware navigation, Java backend with EISMASSim 5.0.1.
-
-**Total Control · Bachelor's Project**
-Context-based runtime permission enforcement for Android — Java, Android SDK, PHP, MySQL, SQLite. Location/time-based policies via WiFi SSID and GPS.
+`HTML5` `CSS3` `JavaScript` `Canvas API` `Algorithms`
 
 ---
 
-## Skills
+### 💻 Backend & Educational Systems
 
-| Languages | Simulation & AI | Testing & QA |
-|-----------|----------------|--------------|
-| Java · Python · JavaScript · SQL · PHP · HTML/CSS · ASP.NET · NetLogo | Agent-Based Modelling · Dijkstra / A* · Multi-Agent Systems · BDI / GOAL · BehaviorSpace | Selenium WebDriver · JUnit · TestNG · JMeter · Burp Suite |
+#### [Quiz Assessment Engine](https://github.com/Sidharthkris/quiz-assessment-engine)
+> **Pluggable Assessment Platform** — An event-driven Java engine built to showcase object-oriented design and zero-coupling architecture.
+* Implemented four classic **GoF design patterns** (Factory, Builder, Strategy, Observer) to fully decouple question authoring, interchangeable scoring rules, and progress tracking.
+* Features a responsive **Swing GUI** with real-time countdown timers, a 120+ question self-validating Java knowledge bank, and polymorphic JSON persistence using **Jackson**.
 
-| CI/CD & Tools | Databases & Mobile | Concepts |
-|---------------|-------------------|----------|
-| Jenkins · GitHub Actions · Git · Jira · Eclipse · IntelliJ IDEA | MySQL · SQLite · SQL Server · JDBC · Android SDK | OOP · Data Structures · Algorithms · SDLC · Agile/Scrum |
+`Java 17` `Design Patterns` `Swing GUI` `Jackson JSON` `Event-Driven` `JUnit 5`
 
----
+<br>
 
-## Experience
+#### [Exam Result Batch Processor](https://github.com/Sidharthkris/exam-result-processor)
+> **Automated Analytics & Reporting CLI** — A Java command-line pipeline built to consolidate, analyze, and export student examination metrics at scale.
+* Leverages the Java **Stream API** and **OpenCSV** to ingest batch exam datasets and compute complex statistical distributions (mean, median, rank, grade boundaries).
+* Automates the generation of multi-sheet Excel workbooks using **Apache POI** and formatted PDF summary reports using **Apache PDFBox**.
 
-**Test Automation Engineer** · Rogersoft Technologies · Dec 2018 – Mar 2019
-Built Selenium WebDriver automation in Java; integrated into Jenkins/GitHub Actions CI/CD. Performance testing with JMeter, vulnerability assessment with Burp Suite.
-
-**Academic Coordinator (Java)** · Matrix Technologies · Nov 2015 – Nov 2018
-Mentored Java developers; supervised end-to-end SDLC projects (Library Management System, E-Commerce Inventory Tool). Designed training curriculum and conducted code reviews.
-
-**Full-Stack Developer (Intern)** · Verbicio Tech LLC · Jul 2014
-Built responsive full-stack web modules (HTML, CSS, JavaScript, SQL Server). Source control with Git/GitHub.
+`Java 17` `Stream API` `OpenCSV` `Apache POI` `Apache PDFBox` `JUnit 5`
 
 ---
 
-## Education
+## 🛠️ Technical Stack
 
-**M.Sc. Computer Science (Informatik)** · TU Clausthal, Germany · Oct 2020 – Sep 2025
-*Thesis: Agent-Based Simulation of Emergency Evacuation in University Lecture Halls*
-
-**B.Tech. Computer Science** · Mar Baselios Institute of Technology and Science (MBITS), Kerala, India · Aug 2011 – May 2015
-
----
-
-## Languages
-
-English (fluent) &nbsp;·&nbsp; German (B1)
+* **Core Languages:** `Java 17` `Python` `JavaScript` `SQL` `Bash/Shell` `NetLogo`
+* **Architecture & Backend:** `Object-Oriented Design` `GoF Design Patterns` `Spring Boot` `REST APIs` `Stream API` `Node.js` `Maven`
+* **Data Processing & Libraries:** `Apache POI` `Apache PDFBox` `OpenCSV` `Jackson JSON` `Swing GUI`
+* **AI, Data & Simulation:** `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `Multi-Agent Systems` `GOAL`
+* **Cloud & DevOps:** `Docker` `Kubernetes` `Linux` `Jenkins` `GitHub Actions` `Git`
+* **Testing & QA:** `Selenium WebDriver` `JUnit 5` `TestNG` `JMeter` `Appium` `TDD/BDD`
+* **Databases & Web:** `PostgreSQL` `MySQL` `SQL Server` `Oracle` `React` `HTML5/CSS3`
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sidharthkris.github.io-0052e0?style=flat&logo=github&logoColor=white)](https://sidharthkris.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-vijayan-krishnan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sidharthvk80@gmail.com)
+## 📊 GitHub Activity & Stats
+
+<!-- Minimalist, dark-mode friendly stat cards with zero background clash -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidharthkris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharthkris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Modern, mobile-friendly contact badges -->
+<p align="center">
+  <a href="https://sidharthkris.github.io"><img src="https://img.shields.io/badge/Portfolio-sidharthkris.github.io-0052e0?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sidharth-vijayan-krishnan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sidharthvk80@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
