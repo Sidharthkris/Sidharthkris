@@ -31,6 +31,16 @@ I am a Software Engineer based in Germany with a unique blend of expertise in **
 
 ### 💻 Backend & Educational Systems
 
+#### [Course Timetable Planner API](https://github.com/Sidharthkris/course-timetable-planner)
+> **Full-Stack Scheduling Platform** — A Spring Boot REST API and Thymeleaf web UI for academic timetabling, directly modelled on real coordinator workflows across multiple departments.
+* Built an automatic conflict-detection engine that prevents any instructor or room from being double-booked, exposed through both a REST API and a server-rendered weekly calendar grid.
+* Implemented role-based access control with **Spring Security**, enforcing Coordinator (full access) vs. Instructor (view-only) permissions at the service layer via `@PreAuthorize` — one rule shared identically by the API and the GUI.
+* Shipped with Dockerized **PostgreSQL**, OpenAPI/Swagger documentation, and a JUnit 5 suite covering the conflict algorithm, the calendar-grid layout logic, and full-stack role-enforcement tests.
+
+`Java 17` `Spring Boot 3` `Spring Security` `Spring Data JPA` `Thymeleaf` `PostgreSQL` `Docker` `OpenAPI/Swagger` `JUnit 5`
+
+<br>
+
 #### [Quiz Assessment Engine](https://github.com/Sidharthkris/quiz-assessment-engine)
 > **Pluggable Assessment Platform** — An event-driven Java engine built to showcase object-oriented design and zero-coupling architecture.
 * Implemented four classic **GoF design patterns** (Factory, Builder, Strategy, Observer) to fully decouple question authoring, interchangeable scoring rules, and progress tracking.
@@ -52,7 +62,7 @@ I am a Software Engineer based in Germany with a unique blend of expertise in **
 ## 🛠️ Technical Stack
 
 * **Core Languages:** `Java 17` `Python` `JavaScript` `SQL` `Bash/Shell` `NetLogo`
-* **Architecture & Backend:** `Object-Oriented Design` `GoF Design Patterns` `Spring Boot` `REST APIs` `Stream API` `Node.js` `Maven`
+* **Architecture & Backend:** `Object-Oriented Design` `GoF Design Patterns` `Spring Boot` `Spring Security` `Spring Data JPA` `REST APIs` `Thymeleaf` `Stream API` `Node.js` `Maven`
 * **Data Processing & Libraries:** `Apache POI` `Apache PDFBox` `OpenCSV` `Jackson JSON` `Swing GUI`
 * **AI, Data & Simulation:** `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `Multi-Agent Systems` `GOAL`
 * **Cloud & DevOps:** `Docker` `Kubernetes` `Linux` `Jenkins` `GitHub Actions` `Git`
